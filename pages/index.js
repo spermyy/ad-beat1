@@ -9,7 +9,7 @@ export default function Home() {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>[Hello I am Daniel Manarang I am a Software Engineer I’m Daniel Manarang, I live in Macabebe, Pampanga. My hobbies are playing basketball and mobile games and cooking. My favorite food is Filipino food like Lumpiang Sariwa And Ginisang Ampalaya. I like a lot of vegetable food. Other things that I can tell you about me is I like watching movies/series and listening to music.
+        <p>Daniel Manarang, I live in Macabebe, Pampanga. My hobbies are playing basketball and mobile games and cooking. My favorite food is Filipino food like Lumpiang Sariwa And Ginisang Ampalaya. I like a lot of vegetable food. Other things that I can tell you about me is I like watching movies/series and listening to music.
 
 
 I took up IT because my sister told me to take the IT course.
